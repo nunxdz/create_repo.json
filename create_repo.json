@@ -1,0 +1,10 @@
+{
+  "name": "Hello-World",
+  "description": "This is repo create from cURL",
+  "homepage": "http://devahoy.com/posts/getting-started-with-curl/",
+  "private": false,
+  "has_issues": true,
+  "has_wiki": true,
+  "has_downloads": true,
+  "auto_init": true
+}
